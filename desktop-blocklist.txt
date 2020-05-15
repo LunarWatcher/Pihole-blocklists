@@ -1,4 +1,7 @@
+# graph-b and api-b are blocked in the global list.
+# These are required for the mobile apps to work, so they're excluded from that list.
+# On desktop, these can be blocked without any consequences aside images on third party
+# sites not loading.
 graph.facebook.com
-graph-b.facebook.com
 api.facebook.com
-api-b.facebook.com
+
