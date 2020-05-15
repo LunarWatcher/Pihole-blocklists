@@ -7,3 +7,6 @@ growth-pa.googleapis.com
 # Facebook B
 graph-b.facebook.com
 api-b.facebook.com
+
+# disqus is disqusting
+disqus.com
