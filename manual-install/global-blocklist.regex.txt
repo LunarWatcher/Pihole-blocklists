@@ -1,0 +1,10 @@
+# Note that this file can't be installed as a blocklist, because regex-based blocklists apparently aren't a thing.
+# This list is still kept for sync and sharing purposes.
+# Sharing is caring! <3
+
+# Google extended
+(\.|^)glpals\.com$
+
+# According to reddit, chinese spyware forced on Samsung users
+(\.|^)360\.cn$
+(\.|^)360safe\.com$
