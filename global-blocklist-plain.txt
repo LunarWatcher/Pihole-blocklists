@@ -3,3 +3,7 @@ c.aaxads.com
 
 # Google extended
 growth-pa.googleapis.com
+
+# Facebook B
+graph-b.facebook.com
+api-b.facebook.com
