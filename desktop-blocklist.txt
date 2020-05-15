@@ -1,0 +1,4 @@
+graph.facebook.com
+graph-b.facebook.com
+api.facebook.com
+api-b.facebook.com
