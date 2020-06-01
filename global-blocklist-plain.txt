@@ -22,3 +22,23 @@ samsung-stub.yana.asideas.de
 # Appears to be Microsoft Visual's crashlogging. My phone makes up all the requests, looking aside 4 where I'm trying to
 # investigate what it is.
 in.appcenter.ms
+
+# Fuck pridefall
+# IP loggers
+# https://twitter.com/playz_stevo/status/1267334094720991234/photo/1
+iplogger.org
+ipgrabber.ru
+ipgraber.ru
+2no.co
+yip.su
+iplis.ru
+02ip.ru
+ezstat.ru
+grabify.link
+leancoding.co
+stopify.co
+freegiftcards.co
+joinmy.site
+curiouscat.club
+catsnthings.fun
+catsnthings.com
