@@ -11,10 +11,3 @@
 
 # Disqus likes data
 (\.|^)disqus\.com$
-
-
-# Extremely basic IP block.
-# Will, as an unfortunate side-effect, block legitimate "what is my ip" sites. Not the worst side-effect. (Use duckduckgo.com)
-(\.|^).*ip.*\.
-# Fuck pridefall
-.*catsnthings\..*
