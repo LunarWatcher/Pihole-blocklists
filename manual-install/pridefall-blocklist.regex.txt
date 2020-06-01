@@ -21,6 +21,7 @@
 # The following regex globs these domains from the tweet: ipgrabber.ru, ipgraber.ru, yip.su, iplis.ru
 # Additionally, it eats any and all sites with a domain or subdomain containing "ip". Will likely cause
 # false positives.
+# Note: this blocks Wikipedia. Don't forget to whitelist it
 .*ip.*
 (\.|^)2no
 (\.|^)ezstat
