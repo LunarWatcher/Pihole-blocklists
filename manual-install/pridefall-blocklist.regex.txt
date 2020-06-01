@@ -1,0 +1,41 @@
+# ______          _                 _     _       __      _ _ 
+# |  ___|        | |               (_)   | |     / _|    | | |
+# | |_ _   _  ___| | __  _ __  _ __ _  __| | ___| |_ __ _| | |
+# |  _| | | |/ __| |/ / | '_ \| '__| |/ _` |/ _ \  _/ _` | | |
+# | | | |_| | (__|   <  | |_) | |  | | (_| |  __/ || (_| | | |
+# \_|  \__,_|\___|_|\_\ | .__/|_|  |_|\__,_|\___|_| \__,_|_|_|
+#                       | |                                   
+#                       |_|                                   
+# Fuck pridefall
+
+# Note: this blocklist has massive collateral damage.
+# It will take out sites that may otherwise be fine, or may be completely unrelated.
+# Additionally, this is a regex-based file to glob in domains and subdomains, as well as ignoring TLDs. 
+# The globbing is the reason this will cause collateral damage.
+# the Pi-hole dashboard interprets space as the start of a new link, so it should be possible to just
+# copy-paste all these into the blacklist, and it'll add them.
+
+
+# IP loggers
+# https://twitter.com/playz_stevo/status/1267334094720991234/photo/1
+# The following regex globs these domains from the tweet: ipgrabber.ru, ipgraber.ru, yip.su, iplis.ru
+# Additionally, it eats any and all sites with a domain or subdomain containing "ip". Will likely cause
+# false positives.
+.*ip.*
+(\.|^)2no
+(\.|^)ezstat
+(\.|^)grabify
+(\.|^)leancoding
+(\.|^)stopify
+(\.|^)freegiftcards
+(\.|^)joinmy
+(\.|^)curiouscat
+(\.|^)catsa?nd?things
+
+# Possibly unrelated, but shows up in google searches
+(\.|^)issuu
+(\.|^)blasze
+
+# URL shorteners (for good measure)
+(\.|^)bit.ly
+(\.|^)goo.gl
