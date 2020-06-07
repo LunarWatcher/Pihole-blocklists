@@ -1,1 +1,16 @@
 (\.|^)wikipedia\.org$
+
+# mult*ip*layer.factorio.com
+(\.|^)factorio\.com$
+
+ipv4.imgur.map.fastly.net
+# Netflix (subdomains blocked; breaks netflix)
+(\.|^)nflxvideo\.net$
+
+# Make sure GH pipelines aren't blocked
+(\.|^)githubusercontent\.com$
+# unblock g*ip*hy
+(\.|^)giphy\.com$
+
+# unblock v*ip*ps (breaks login)
+(\.|^)vipps\.no$
