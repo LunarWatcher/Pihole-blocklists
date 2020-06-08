@@ -3,6 +3,12 @@ usc.adserver.snapads.com
 # Reddit
 c.aaxads.com
 l3.aaxads.com
+# The rest of Reddit
+# Toxic shithole
+reddit.com
+old.reddit.com
+reddit.com
+reddithelp.com
 
 # Google extended
 growth-pa.googleapis.com
