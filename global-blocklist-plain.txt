@@ -9,6 +9,7 @@ reddit.com
 www.reddit.com
 old.reddit.com
 reddithelp.com
+reddit.map.fastly.net
 
 # Google extended
 growth-pa.googleapis.com
