@@ -5,11 +5,33 @@ c.aaxads.com
 l3.aaxads.com
 # The rest of Reddit
 # Toxic shithole
+# Base --------------------------
 reddit.com
 www.reddit.com
 old.reddit.com
 reddithelp.com
 reddit.map.fastly.net
+gql.reddit.com
+gateway.reddit.com
+strapi.reddit.com
+oauth.reddit.com
+sp.reddit.com
+# Media -------------------------
+redditmedia.com
+styles.redditmedia.com
+oops.redditmedia.com
+a.thumbs.redditmedia.com
+b.thumbs.redditmedia.com
+www.redditstatic.com
+emoji.redditmedia.com
+# Shortener ---------------------
+redd.it
+v.redd.it
+i.redd.it
+preview.redd.it
+external-preview.redd.it
+watch.redd.it
+# End block ---------------------
 
 # Google extended
 growth-pa.googleapis.com
