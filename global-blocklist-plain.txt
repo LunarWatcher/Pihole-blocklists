@@ -6,6 +6,7 @@ l3.aaxads.com
 # The rest of Reddit
 # Toxic shithole
 reddit.com
+www.reddit.com
 old.reddit.com
 reddithelp.com
 
