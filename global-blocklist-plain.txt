@@ -9,6 +9,15 @@ growth-pa.googleapis.com
 # Appears to be purely for tracking; hasn't broken anything in the few days I've left it blocked internally
 footprints-pa.googleapis.com
 
+# Attempt to start removing glpals from regex and merging it with a plain blocklist
+glpals.com
+bcmls.glpals.com
+bcmls1.glpals.com
+bcmls2.glpals.com
+gllto.glpals.com
+gllto1.glpals.com
+gllto2.glpals.com
+
 # Facebook B
 b-graph.facebook.com
 b-api.facebook.com
@@ -22,3 +31,17 @@ samsung-stub.yana.asideas.de
 # Appears to be Microsoft Visual's crashlogging. My phone makes up all the requests, looking aside 4 where I'm trying to
 # investigate what it is.
 in.appcenter.ms
+# Teams (?)
+oneclient.sfx.ms
+evoke-windowsservices-tas.msedge.net
+
+# URL shorteners
+goo.gl
+bit.ly
+bitly.com
+tinyurl.com
+zoee.xyz
+trafiq.party
+adf.ly
+adfoc.us
+
