@@ -45,3 +45,11 @@ trafiq.party
 adf.ly
 adfoc.us
 
+# I have no idea why mozilla wants to index networks, nor do I know why it tops my logs with 2000 entries (!) in under a day I guess
+# This is also in spite of it being _disabled_ on my phone, and with all the requests coming from my computer. Adios, and fuck off
+locprod1-elb-eu-west-1.prod.mozaws.net
+location.services.mozilla.org
+
+# Shut down some of Reddit's fingerprinting ability (https://www.reddit.com/r/firefox/comments/hnar5k/i_keep_getting_prompted_to_enable_drm_on_reddit/ https://smitop.com/post/reddit-whiteops/)
+udkcrj.com
+s.udkcrj.com
