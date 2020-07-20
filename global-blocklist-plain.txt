@@ -3,7 +3,7 @@ usc.adserver.snapads.com
 # Reddit
 c.aaxads.com
 l3.aaxads.com
-
+http://hits.dwyl.io/
 # Google extended
 growth-pa.googleapis.com
 # Appears to be purely for tracking; hasn't broken anything in the few days I've left it blocked internally
@@ -53,3 +53,15 @@ location.services.mozilla.org
 # Shut down some of Reddit's fingerprinting ability (https://www.reddit.com/r/firefox/comments/hnar5k/i_keep_getting_prompted_to_enable_drm_on_reddit/ https://smitop.com/post/reddit-whiteops/)
 udkcrj.com
 s.udkcrj.com
+
+# Kill off GitHub (3rd party) hit trackers
+# https://github.com/dwyl/hits
+hits.dwyl.io
+dwyl.io
+
+# https://github.com/jwenjian/visitor-badge + linked sites
+api.countapi.xyz
+countapi.xyz
+visitor-badge.glitch.me
+visitor-badge.laobi.icu
+laobi.icu
