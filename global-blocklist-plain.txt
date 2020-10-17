@@ -65,3 +65,8 @@ countapi.xyz
 visitor-badge.glitch.me
 visitor-badge.laobi.icu
 laobi.icu
+
+# Ads
+
+bidmachine.io
+eu-api.bidmachine.io
