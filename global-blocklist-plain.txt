@@ -70,3 +70,32 @@ laobi.icu
 
 bidmachine.io
 eu-api.bidmachine.io
+
+# Appears to be tiktok, but I don't have tiktok. I have no fucking idea what makes these
+# requests, and that's NOT okay!
+ibytedtos.com
+www.ibytedtos.com
+byteoversea.com
+
+dm15-alisg.byteoversea.com
+dm16-alisg.byteoversea.com
+dm-maliva-quic.byteoversea.com
+smr-aliva.byteoversea.com
+sdfp-va.byteoversea.com 
+quic-normal-lb-useast1.byteoversea.net
+quic-normal-lb-useast2.byteoversea.net
+quic-normal-lb-useast3.byteoversea.net
+quic-normal-lb-useast4.byteoversea.net
+sf-tb-sg.ibytedtos.com
+
+# Tiktok ads (WHY?!?!?!)
+api16-access-sg.pangle.io
+www.pangle.io
+pangle.io
+
+# The fuck is this?
+mobile-1290.api.privacy-center.org
+privacy-mgmt.com
+www.privacy-mgmt.com
+cdn-1047.privacy-mgmt.com
+cdn-1096.privacy-mgmt.com
