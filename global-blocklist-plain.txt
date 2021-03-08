@@ -99,3 +99,7 @@ privacy-mgmt.com
 www.privacy-mgmt.com
 cdn-1047.privacy-mgmt.com
 cdn-1096.privacy-mgmt.com
+
+9gag.com
+img-9gag-fun.9cache.com
+9cache.com
