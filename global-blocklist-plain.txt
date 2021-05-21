@@ -115,7 +115,10 @@ www.documentforlag.no
 test.document.no
 theright.store
 
-
 resett.no
 xstra.no
 shop-resett.no
+
+# Fuck gitmemory
+gitmemory.com
+githubmemory.com
