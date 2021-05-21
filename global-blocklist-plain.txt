@@ -121,4 +121,5 @@ shop-resett.no
 
 # Fuck gitmemory
 gitmemory.com
+gitmemory.cn
 githubmemory.com
