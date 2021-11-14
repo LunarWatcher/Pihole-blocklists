@@ -130,6 +130,7 @@ githubmemory.com
 # Too bad the company decided to stop doing something about these...
 # Too bad they're ranking so high in searches that people think posts are plagiarized from it. Y i k e s!
 newbedev.com
+coderedirect.com
 
 # Domains bought by spammers, scammers, and other people who should've been taken down by now
 developertutorials.com
