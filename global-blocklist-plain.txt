@@ -137,3 +137,14 @@ coderoad.ru
 
 # Domains bought by spammers, scammers, and other people who should've been taken down by now
 developertutorials.com
+
+# Shady as fuck file hosting service {{{
+skid.systems
+upload.systems
+pays.host
+
+# There's over 700 domains, and sadly counting. They're not all publicly listed, so I'd need an account for the rest, which I can't, because
+# it's invite only, and it's the fact that it's invite only and has embeds that include "not an IP logger" that makes it blockable in the first place.
+# Having an account might dismiss the entire reason to block this shady crap, but here we are.
+i-love-to.skid.systems
+# }}}
