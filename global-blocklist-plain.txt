@@ -148,3 +148,5 @@ pays.host
 # Having an account might dismiss the entire reason to block this shady crap, but here we are.
 i-love-to.skid.systems
 # }}}
+
+yandex.ru
