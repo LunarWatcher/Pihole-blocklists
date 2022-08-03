@@ -191,3 +191,11 @@ douyin.com
 bytedance.com
 
 cirosantilli.com
+
+# Malware
+# I actually have no idea what the base domain is, and can't be arsed to check
+myjino.ru
+vps.myjino.ru
+pr46m.vps.myjino.ru
+j19544519.pr46m.vps.myjino.ru
+ovz1.j19544519.pr46m.vps.myjino.ru
