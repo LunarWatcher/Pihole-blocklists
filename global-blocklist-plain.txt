@@ -119,11 +119,6 @@ shop-resett.no
 
 stopmasturbationnow.org
 
-# Fuck gitmemory
-gitmemory.com
-gitmemory.cn
-githubmemory.com
-
 # Stack Overflow scrapers
 # Too bad the company decided to stop doing something about these...
 # Too bad they're ranking so high in searches that people think posts are plagiarized from it. Y i k e s!
@@ -199,3 +194,42 @@ j19544519.pr46m.vps.myjino.ru
 ovz1.j19544519.pr46m.vps.myjino.ru
 
 lf-empire.de
+
+# Scraper sites {{{
+# GitHub {{{
+coder.social
+githubmate.com
+giters.com
+innominds.com
+github.innominds.com
+githubrecord.com
+gitfreak.com
+bytemeta.vip
+gitmemory.com
+gitmemory.cn
+githubmemory.com
+# }}}
+# Stack Exchange {{{
+
+# }}}
+# }}}
+# General spam/keyword stuffers {{{
+dogovori.info
+car-unlockers.com
+isolution.com
+firstlightsalon.in
+knews.vip
+hingogo.com
+ustrading.com.sg
+
+flashstart.comactivemember.com
+activemember.com
+yonkerstaxcenter.com
+toggle.digital
+datahowinfo.com
+hhpropertysolutions.co.uk
+obseques-et-pompes-funebres.com
+
+answeregy.com
+answeregy.net
+# }}}
