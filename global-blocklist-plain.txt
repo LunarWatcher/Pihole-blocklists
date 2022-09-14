@@ -210,6 +210,10 @@ gitmemory.cn
 githubmemory.com
 # }}}
 # Stack Exchange {{{
+narkive.no
+diy.narkive.no
+narkive.com
+diy.narkive.com
 
 # }}}
 # }}}
