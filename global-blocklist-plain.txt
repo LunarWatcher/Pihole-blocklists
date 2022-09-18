@@ -208,12 +208,24 @@ bytemeta.vip
 gitmemory.com
 gitmemory.cn
 githubmemory.com
+gitmemories.com
+devpick.io
+gitdetail.com
+ergjewelry.com
+gh.fakev.cn
+fakev.cn
+blog.fakev.cn
+
 # }}}
 # Stack Exchange {{{
 narkive.no
 diy.narkive.no
 narkive.com
 diy.narkive.com
+anycodings.com
+lightrun.com
+overcoder.net
+exchangetuts.com
 
 # }}}
 # }}}
