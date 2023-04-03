@@ -256,6 +256,11 @@ donaldjtrump.com
 
 # Email spammers {{{
 substack.com
+on.substack.com
+reader.substack.com
+support.substack.com
+read.substack.com
+
 hustleai.co
 stockup.tools
 cryptoexit.org
@@ -275,7 +280,16 @@ blockchaingrants.org
 slick.chat
 absurdfounder.gumroad.com
 vaibhavkalra.com
+# For good measure, currently unused
+superhuman12.github.io
+
+# Also affiliated with the above, but not as prolific on their own
+manavkalra156.medium.com
+web3summary.com
+web3summary.substack.com
+manavkalra.com
 
 
+fixblurry.photos
 
 # }}}
