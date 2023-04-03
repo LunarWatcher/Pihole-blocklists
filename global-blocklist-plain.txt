@@ -253,3 +253,26 @@ answeregy.net
 codepeak.tech
 # }}}
 donaldjtrump.com
+
+# Email spammers {{{
+substack.com
+hustleai.co
+stockup.tools
+cryptoexit.org
+tulsisoftware.com
+payables.finance
+tweetshot.in
+getavatar.art
+cryptoscale.info
+howtonft.org
+safalcrate.com
+donut.im
+sohappie.com
+kikbac.com
+quickveggies.com
+kalravaibhav.medium.com
+blockchaingrants.org
+slick.chat
+absurdfounder.gumroad.com
+
+# }}}
