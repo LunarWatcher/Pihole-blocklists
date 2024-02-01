@@ -255,6 +255,8 @@ codepeak.tech
 donaldjtrump.com
 
 # Email spammers {{{
+organicwebsolution.com
+
 substack.com
 on.substack.com
 reader.substack.com
@@ -294,3 +296,4 @@ manavkalra.com
 fixblurry.photos
 
 # }}}
+
